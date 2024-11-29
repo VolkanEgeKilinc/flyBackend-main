@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bilethub-8aba0",
+  "private_key_id": "544bb99e400c91f0148e2ec35bc6270d4fb69a31",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJoeIHa304OF7R\nkDHHzg0pl7t1XGpD37cRuzrHk8Mt22AEYOD9CuL5jKdOY/AO/fhFOfSECQoq+ryA\nBWFXkfWHrmeMmk9HoP5cqJe//tGXs35vj1DseoVTly0qdAnpfAnpzKoA4UPPu+ad\n31s2g21PUR8KmodFloLT5rmtTN6PMVvLVR3gNmzxN4Q20PsNMdlapSzBXwmUpvs4\nDj+YIOCCKEWE0lUBMbthHhEcD3EpvOZE0dx7568aUXIEjxjIDY/ARPKpWvkkfaLA\nfpoQoCCEJhf8a8IFf18KxDEGOdyf72r7bhuYqwz466iFxUqtMsK30nWSkXxd5g8d\noIJ0AV1tAgMBAAECggEAEZF5loBq3XBp8JQCBmEBfBeEpZ3rA2V1d8XKwhNxnOgB\npngDeoDNlIVJGZczFjdSP8PkNnHsMSD+NiBh4iWtUUhkrNdQI5NXPl8RM9Eh1Xg2\nAsXnvOcTAVzJemq4Z1/fpD+pK2D1Td8XIbfRpH8QkenlTMD4mttZpFl04bDyLmMs\nlT3+LoJ5KdxUf+RMWq9N0iLia++XOiT8YL2RPjNRCYNu9GqVX9jbfdSBt9DeXbS3\nPMqmW8/7QbqjoW7LJ8AqtdIJy9Cp602KqYqHw3kzv9a6g07qeq2D2aobmr+Iml2M\nf02v/XGlHzglSthsWu6vohdS9PacBDdjZ9kdeqfOeQKBgQD4zhygjpLfSXfDam/d\n1zooREC8NdIm7WK4mphODLpqyPNe5iHO82Y9XdDeHd0hPtjuHFqyaQyLXCeCzW0v\nQ4tUgk8cVpraNdsHeCneeMfuU3UugVWBmBEmb0EtOM2fCpuDF4lz9j2RB64Qf0PI\nYZ9BZtEWXLmSVRbcQ6kAbI239QKBgQDPdo3dFyYmw0mEEF1K2abtYKWT0xFG9CS1\nfG72NMtDsA/zJVb4d6eLYwGLKZE5Ts4vCB0AStAnG2J8Er5ng9gekp/9lHba+uX9\neKxdckyuXz/ugvJlV5YqNV1d2nCyX9NYkevhyVXjdvkAOc5aRznFiayr6mZj30yt\nT0pUuc08mQKBgCe21rD2MRF9K6XArpyNh1X4FxEz0hiumax32MnUlEkJTHegalMb\nXP18pSNfRvXQj1XqpruFsx/nlNL3MW9y66GQr0oJtOwR3qVhk+VUCC3Nmo3SzTBD\ncrFc3t12DLRPQCV7s1AURR2KSUmO1uX8VyxcWhGkuWZXOK/uCOLtcO2lAoGBAIPY\nwlvKBHMKFUSa6c9R96ZQj6ocr5Q6QMIeLJ7H+o4v7FMIXfdWg+Ivr6Fzb1nOXXbC\nXzv6T8MqwjI770n2Hnl/kbIkkkyku1mVQWW56EXBPu4jxkzllweIFqg41Ppnr/dP\n9Wru+2iuCZ09H4l8Tpjd4CD5vMyn8yEJjSG/W1GxAoGBAJZXdiNsl/5d4XBNWawF\n5T8mtg7a/vqTx79z8H5B3qZx2xfJSnoB2aNTT1VXey/wMnjd1HN1y5QlIRYdrRl3\nO3xydYYM+YMHYfKxALd4EsuTxWu6rc4kNoDM4dYJ45hpZBZMt1QDThhvPBOeefl3\nEWsUGwhTfC3ejRKZA2M8Qo3O\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-kvofq@bilethub-8aba0.iam.gserviceaccount.com",
+  "client_id": "107297390320650231312",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-kvofq%40bilethub-8aba0.iam.gserviceaccount.com"
+}
